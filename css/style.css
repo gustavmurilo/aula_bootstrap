@@ -9,6 +9,15 @@
 }
 
 .margin {
-    padding-top: 50px;
+    padding-top: 10px;
     padding-bottom: 50px;
+}
+
+.parceiros {
+    background-color: #70919c;
+}
+
+.bg-footer {
+    Background-color: black;
+    color: white;
 }
