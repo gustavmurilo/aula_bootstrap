@@ -1,6 +1,18 @@
 .navbar {
     background-color: #52CEFC;
+    font-family: verdana, arial, helvetica;
+    height: 100px;
+}
 
+.navbar-brand {
+    padding-left: 300px;
+}
+
+h3 {
+    padding-top: 30px;
+}
+.navbar-nav {
+    padding-left: 750px;
 }
 
 .quem-somos {
@@ -10,7 +22,7 @@
 
 .margin {
     padding-top: 10px;
-    padding-bottom: 50px;
+    padding-bottom: 30px;
 }
 
 .parceiros {
